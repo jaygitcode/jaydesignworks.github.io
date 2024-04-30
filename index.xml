@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>君心Jay</title>
-    <link>http://localhost:1313/</link>
+    <link>https://junxinjay.github.io/</link>
     <description>Recent content on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>Copyright © 2008–2024, Steve Francia and the lee.so; all rights reserved.</copyright>
     <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://junxinjay.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用hugo生成静态博客</title>
-      <link>http://localhost:1313/post/1.%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84hugo%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://junxinjay.github.io/post/1.%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84hugo%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/1.%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84hugo%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://junxinjay.github.io/post/1.%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84hugo%E5%8D%9A%E5%AE%A2/</guid>
       <description>前言 hugo是一个用Go语言编写的静态网页生成器, 用来做博客很合适，开搞!&#xA;下载程序 git.exe //安装&#xA;hugo.exe //无需安装，放到一个合适的地方即可&#xA;配置环境变量 打开此电脑-右键 属性-高级系统设置-高级 环境变量 -系统变量 -选中path -编辑-新建环境比变量 -&amp;ldquo;填入hugo所在的文件夹路径&amp;rdquo; -确定即可&#xA;记得CMD执行hugo -version检查一下有没有配置好&#xA;建立博客 进入hugoblog文件夹，右键点击Open Git Bash here&#xA;把下面代码逐个粘贴到黑窗口执行&#xA;hugo new site hugoblog //创建名为hugoblog项目 hugo new site hugoworks&#xD;cd hugoblog //进入hugoblog&#xD;hugo new about.md //创建一个 about 页面，可以进入随便写点东西先，不写也行 下载主题 1.下载喜欢的主题（官网有）放在bugoblog/themes文件夹下，我这里下papermod, 主题项目都在github, 找到项目克隆下来&#xA;git clone https://github.com/nanxiaobei/hugo-paper.git 2.把exampleSite整个拷贝到hugoblog目录，config.toml更名为hugo.toml。提示有同名文件覆盖即可&#xA;查看博客 hugoblog文件夹，右键点击Open Git Bash here&#xA;hugo server --theme=blist --buildDrafts #调试替换主题名 然后黑窗口中会给你一个地址，打开选中右键open，或者浏览器里打开： http://localhost:1313/，不出意外的话就会看到和官网主题demo页一样的页面。&#xA;出了意外跳转查看 可能遇到的问题&#xA;配置主题 下面把页面的一些东西改成自己想要的模样&#xA;notepad或者记事本打开hugo.toml 带###的是必须要修改的，可以参照我的改一下，其它可改可不改 页面是实时显示的，这边修改完，那边浏览器就能看到效果</description>
     </item>
     <item>
       <title>关于</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://junxinjay.github.io/about/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://junxinjay.github.io/about/</guid>
       <description>关于我 我是一个设计爱好者。 喜欢看电影和打游戏， 擅于利用搜索解决各类问题， 喜欢折腾各种系统、软件和APP，电脑重装，手机刷机。&#xA;关于工作 我想说，&#xA;工作是一场马拉松，不是短跑。 尊重人，而不是头衔。 工作从白板开始，而不是从键盘。 产出的是价值，而不是图片。 热爱生活，而不是工作。 学会享受过程。 关于生活 我想说， 生活,不只是诗和远方,还有眼前的苟且， 哈哈，let&amp;rsquo;s dance!</description>
     </item>
     <item>
       <title>友链</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://junxinjay.github.io/contact/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://junxinjay.github.io/contact/</guid>
       <description> github.com/junxinjay </description>
     </item>
     <item>
       <title>搜索</title>
-      <link>http://localhost:1313/serach/</link>
+      <link>https://junxinjay.github.io/serach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/serach/</guid>
+      <guid>https://junxinjay.github.io/serach/</guid>
       <description></description>
     </item>
   </channel>
