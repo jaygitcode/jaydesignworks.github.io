@@ -55,7 +55,7 @@
   />
 
   
-  <title>君心Jay</title>
+  <title>搜索 - 君心Jay</title>
 
   
   <meta name="theme-color" />
@@ -63,11 +63,7 @@
   
   
   
-  
-  <meta
-    name="description"
-    content="A personal blog"
-  />
+  <meta name="description" content="" />
   <meta name="author" content="君心Jay" />
   
 
@@ -79,6 +75,12 @@
   
   <link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
 
+  
+  <script
+    defer
+    src="http://localhost:1313/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
   
 
   
@@ -112,13 +114,6 @@
   <meta name="generator" content="Hugo 0.124.1">
 
   
-  
-  <link
-    rel="alternate"
-    type="application/rss&#43;xml"
-    href="http://localhost:1313/index.xml"
-    title="君心Jay"
-  />
   
 
   
@@ -283,45 +278,82 @@
     >
       
 
+<header class="page-header">
+    <h1>搜索 </h1>
+</header>
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdn.staticfile.net/font-awesome/4.7.0/css/font-awesome.css">
+<script>
+function searchKeyword() {
+    var keyword = document.getElementById('searchInput').value;
+    window.open('https://www.baidu.com/s?wd=' + keyword + '+site%3Awww.github.blog.io', '_blank');
+    
+}
+</script>
+<style>
+body {
+  font-family: Arial;
+}
 
+* {
+  box-sizing: border-box;
+}
 
+form.example {
+  position: relative;
+  width: 500px;
+  margin: auto;
+}
 
+form.example input[type=text] {
+  padding: 10px;
+  padding-left: 20px;
+  font-size: 17px;
+  border: 1px solid grey;
+  width: 100%;
+  background: #ffffff;
+  border-radius: 30px;
+}
 
+form.example button {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 10px;
+  background: #000000;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; 
+  cursor: pointer;
+  border-radius: 30px;
+  width: 80px;
+}
 
-
-
-
+form.example button:hover {
+  background: #000000;
+}
 
  
+@media screen and (max-width: 600px) {
+  form.example {
+    width: 100%;
+  }
+}
 
+</style>
+</head>
+<body>
 
+<form class="example" action="javascript:void(0);" onsubmit="searchKeyword()">
+  <input type="text" id="searchInput" placeholder="关键词">
+  <button type="submit"><i class="fa fa-search"></i></button>
+</form>
 
-
-
-
-
-
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
-  
-  <span
-    class="mb-2 inline-block text-[0.8rem] font-medium uppercase tracking-wider text-[#ff3b2d] opacity-70"
-    >精选文章</span
-  >
-  
-  <h2 class="!my-0 pb-1 font-bold !leading-none">使用hugo生成静态博客</h2>
-  <time class="text-sm opacity-60"
-    >2023年8月6日</time
-  >
-  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/post/1.%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84hugo%E5%8D%9A%E5%AE%A2/">使用hugo生成静态博客</a>
-</section>
-
-
-
-
-
-
+</body>
     </main>
 
     <footer
