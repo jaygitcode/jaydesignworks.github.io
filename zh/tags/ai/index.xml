@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on 君心Jay</title>
+    <link>https://junxinjay.netlify.app/zh/tags/ai/</link>
+    <description>Recent content in AI on 君心Jay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://junxinjay.netlify.app/zh/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 手办</title>
+      <link>https://junxinjay.netlify.app/zh/blog/ai-%E6%89%8B%E5%8A%9E/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/ai-%E6%89%8B%E5%8A%9E/</guid>
+      <description>以下皆由Stable Diffusion生成</description>
+    </item>
+    <item>
+      <title>AI产品</title>
+      <link>https://junxinjay.netlify.app/zh/blog/ai-%E4%BA%A7%E5%93%81/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/ai-%E4%BA%A7%E5%93%81/</guid>
+      <description>以下皆由Stable Diffusion生成</description>
+    </item>
+    <item>
+      <title>AI美女</title>
+      <link>https://junxinjay.netlify.app/zh/blog/ai-%E7%BE%8E%E5%A5%B3/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/ai-%E7%BE%8E%E5%A5%B3/</guid>
+      <description>以下皆由Stable Diffusion生成</description>
+    </item>
+  </channel>
+</rss>

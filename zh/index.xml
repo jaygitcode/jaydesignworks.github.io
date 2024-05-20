@@ -6,8 +6,29 @@
     <description>Recent content in home of junxinjay on 君心Jay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://junxinjay.netlify.app/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 手办</title>
+      <link>https://junxinjay.netlify.app/zh/blog/ai-%E6%89%8B%E5%8A%9E/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/ai-%E6%89%8B%E5%8A%9E/</guid>
+      <description>以下皆由Stable Diffusion生成</description>
+    </item>
+    <item>
+      <title>AI产品</title>
+      <link>https://junxinjay.netlify.app/zh/blog/ai-%E4%BA%A7%E5%93%81/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/ai-%E4%BA%A7%E5%93%81/</guid>
+      <description>以下皆由Stable Diffusion生成</description>
+    </item>
+    <item>
+      <title>AI美女</title>
+      <link>https://junxinjay.netlify.app/zh/blog/ai-%E7%BE%8E%E5%A5%B3/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/ai-%E7%BE%8E%E5%A5%B3/</guid>
+      <description>以下皆由Stable Diffusion生成</description>
+    </item>
     <item>
       <title>关于...</title>
       <link>https://junxinjay.netlify.app/zh/about/</link>
