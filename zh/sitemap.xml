@@ -38,10 +38,10 @@
     <loc>https://junxinjay.netlify.app/zh/about/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junxinjay.netlify.app/zh/blog/3d-bathroom/</loc>
+    <loc>https://junxinjay.netlify.app/zh/tags/3d%E9%A3%8E%E6%A0%BC/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junxinjay.netlify.app/zh/tags/%E9%A3%8E%E6%A0%BC/</loc>
+    <loc>https://junxinjay.netlify.app/zh/blog/3d-bathroom/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://junxinjay.netlify.app/zh/tags/%E5%BB%BA%E6%A8%A1/</loc>
@@ -56,11 +56,8 @@
     <loc>https://junxinjay.netlify.app/zh/blog/3d-%E5%B7%A1%E9%80%BB%E8%80%85/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junxinjay.netlify.app/zh/blog/3d-%E5%85%94%E5%8F%BD/</loc>
+    <loc>https://junxinjay.netlify.app/zh/blog/3d-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%89%A9/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junxinjay.netlify.app/zh/blog/3d-%E7%8B%97%E5%AD%90/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://junxinjay.netlify.app/zh/blog/3d-lowpoly/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
@@ -77,7 +74,7 @@
     <loc>https://junxinjay.netlify.app/zh/blog/3d-%E9%AD%94%E6%88%92/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junxinjay.netlify.app/zh/tags/%E4%BA%A7%E5%93%81/</loc>
+    <loc>https://junxinjay.netlify.app/zh/tags/3d%E4%BA%A7%E5%93%81/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%98%93%E6%8B%89%E7%BD%90/</loc>
@@ -155,7 +152,7 @@
     <loc>https://junxinjay.netlify.app/zh/tags/%E6%B5%B7%E6%8A%A5/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E-/</loc>
+    <loc>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://junxinjay.netlify.app/zh/tags/%E5%8C%BB%E7%BE%8E/</loc>
@@ -164,7 +161,16 @@
     <loc>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E6%9C%8D%E9%A5%B0/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://junxinjay.netlify.app/zh/tags/%E4%BA%A7%E5%93%81/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E9%A3%9F%E5%93%81/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junxinjay.netlify.app/zh/tags/%E7%B2%BE%E4%BF%AE/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junxinjay.netlify.app/zh/blog/%E7%B2%BE%E4%BF%AE-%E4%BA%A7%E5%93%81/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://junxinjay.netlify.app/zh/tags/%E9%A3%9F%E5%93%81/</loc>
