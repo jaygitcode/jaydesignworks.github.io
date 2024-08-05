@@ -4,7 +4,7 @@
     <title>home of junxinjay on 君心Jay</title>
     <link>https://junxinjay.netlify.app/zh/</link>
     <description>Recent content in home of junxinjay on 君心Jay</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://junxinjay.netlify.app/zh/index.xml" rel="self" type="application/rss+xml" />
@@ -65,10 +65,10 @@
       <description>-End</description>
     </item>
     <item>
-      <title>卡通动物渲染合集</title>
-      <link>https://junxinjay.netlify.app/zh/blog/3d-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%89%A9/</link>
+      <title>动物</title>
+      <link>https://junxinjay.netlify.app/zh/blog/3d-%E5%8A%A8%E7%89%A9/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/blog/3d-%E5%8D%A1%E9%80%9A%E5%8A%A8%E7%89%A9/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/3d-%E5%8A%A8%E7%89%A9/</guid>
       <description>狗子 兔几 -End</description>
     </item>
     <item>
@@ -76,7 +76,7 @@
       <link>https://junxinjay.netlify.app/zh/blog/3d-lowpoly/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://junxinjay.netlify.app/zh/blog/3d-lowpoly/</guid>
-      <description>-End</description>
+      <description>&#xD;-End&#xD;</description>
     </item>
     <item>
       <title>立方体</title>
