@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>医美 on 君心Jay</title>
+    <link>https://junxinjay.netlify.app/zh/tags/%E5%8C%BB%E7%BE%8E/</link>
+    <description>Recent content in 医美 on 君心Jay</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://junxinjay.netlify.app/zh/tags/%E5%8C%BB%E7%BE%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>海报-医美</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E/</guid>
+      <description>平面海报 -End</description>
+    </item>
+  </channel>
+</rss>

@@ -2,144 +2,277 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home of junxinjay on 君心Jay</title>
-    <link>https://junxinjay3d.netlify.app/zh/</link>
+    <link>https://junxinjay.netlify.app/zh/</link>
     <description>Recent content in home of junxinjay on 君心Jay</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://junxinjay3d.netlify.app/zh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://junxinjay.netlify.app/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI 手办</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/ai-%E6%89%8B%E5%8A%9E/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/ai-%E6%89%8B%E5%8A%9E/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/ai-%E6%89%8B%E5%8A%9E/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/ai-%E6%89%8B%E5%8A%9E/</guid>
       <description>以下皆由Stable Diffusion生成</description>
     </item>
     <item>
       <title>AI产品</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/ai-%E4%BA%A7%E5%93%81/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/ai-%E4%BA%A7%E5%93%81/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/ai-%E4%BA%A7%E5%93%81/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/ai-%E4%BA%A7%E5%93%81/</guid>
       <description>以下皆由Stable Diffusion生成</description>
     </item>
     <item>
       <title>AI美女</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/ai-%E7%BE%8E%E5%A5%B3/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/ai-%E7%BE%8E%E5%A5%B3/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/ai-%E7%BE%8E%E5%A5%B3/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/ai-%E7%BE%8E%E5%A5%B3/</guid>
       <description>以下皆由Stable Diffusion生成</description>
     </item>
     <item>
-      <title>stable_diffusion在电商行业的应用</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/ai-stable_diffusion%E5%9C%A8%E7%94%B5%E5%95%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/ai-stable_diffusion%E5%9C%A8%E7%94%B5%E5%95%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8/</guid>
-      <description>素材 流程步骤 成图 总结： AI生成图像虽蕴含一定随机性，导致成品质量参差不齐，难以一次即完美，目前尚无法全面取代传统制图工作流的精细与确定性。然而，AI生成图像的显著优势在于惊人的创作速度，能够为设计初期迅速提供丰富的灵感与创意草案，极大地加速了构思与迭代过程。随着AI技术的日新月异，其赋能各领域的潜力正逐步释放，预示着不久的将来，AI将更加无缝地融入并优化我们的工作流程，成为不可或缺的创意伙伴与效率引擎。</description>
-    </item>
-    <item>
       <title>关于...</title>
-      <link>https://junxinjay3d.netlify.app/zh/about/</link>
+      <link>https://junxinjay.netlify.app/zh/about/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/about/</guid>
+      <guid>https://junxinjay.netlify.app/zh/about/</guid>
       <description>关于我 我是一个设计爱好者。 喜欢看电影和打游戏， 擅于利用搜索解决各类问题， 喜欢折腾各种系统、软件和 APP，电脑重装，手机刷机。&#xA;关于工作 我想说，&#xA;工作是一场马拉松，不是短跑。 尊重人，而不是头衔。 工作从白板开始，而不是从键盘。 产出的是价值，而不是图片。 热爱生活，而不是工作。 学会享受过程。 关于生活 我想说， 生活,不只是诗和远方,还有眼前的苟且， 哈哈，let&amp;rsquo;s dance!</description>
     </item>
     <item>
       <title>bathroom</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/3d-bathroom/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/3d-bathroom/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/3d-bathroom/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/3d-bathroom/</guid>
       <description>-End</description>
     </item>
     <item>
       <title>宇航员JX-08</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/3d-%E5%AE%87%E8%88%AA%E5%91%98jx08/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/3d-%E5%AE%87%E8%88%AA%E5%91%98jx08/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/3d-%E5%AE%87%E8%88%AA%E5%91%98jx08/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/3d-%E5%AE%87%E8%88%AA%E5%91%98jx08/</guid>
       <description>-End</description>
     </item>
     <item>
       <title>巡逻者</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/3d-%E5%B7%A1%E9%80%BB%E8%80%85/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/3d-%E5%B7%A1%E9%80%BB%E8%80%85/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/3d-%E5%B7%A1%E9%80%BB%E8%80%85/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/3d-%E5%B7%A1%E9%80%BB%E8%80%85/</guid>
       <description>-End</description>
     </item>
     <item>
       <title>动物</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/3d-%E5%8A%A8%E7%89%A9/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/3d-%E5%8A%A8%E7%89%A9/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/3d-%E5%8A%A8%E7%89%A9/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/3d-%E5%8A%A8%E7%89%A9/</guid>
       <description>狗子 兔几 -End</description>
     </item>
     <item>
       <title>low_poly场景渲染</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/3d-lowpoly/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/3d-lowpoly/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/3d-lowpoly/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/3d-lowpoly/</guid>
       <description>&#xD;-End&#xD;</description>
     </item>
     <item>
       <title>房间</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/3d-rooms/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/3d-rooms/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/3d-rooms/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/3d-rooms/</guid>
       <description>-End</description>
     </item>
     <item>
       <title>芯片</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/3d-%E8%8A%AF%E7%89%87/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/3d-%E8%8A%AF%E7%89%87/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/3d-%E8%8A%AF%E7%89%87/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/3d-%E8%8A%AF%E7%89%87/</guid>
       <description>-End</description>
     </item>
     <item>
       <title>魔戒</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/3d-%E9%AD%94%E6%88%92/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/3d-%E9%AD%94%E6%88%92/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/3d-%E9%AD%94%E6%88%92/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/3d-%E9%AD%94%E6%88%92/</guid>
       <description>-End</description>
     </item>
     <item>
       <title>易拉罐</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%98%93%E6%8B%89%E7%BD%90/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%98%93%E6%8B%89%E7%BD%90/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%98%93%E6%8B%89%E7%BD%90/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%98%93%E6%8B%89%E7%BD%90/</guid>
       <description>-End</description>
     </item>
     <item>
       <title>化妆品</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%96%E5%A6%86%E5%93%81/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%96%E5%A6%86%E5%93%81/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%96%E5%A6%86%E5%93%81/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%96%E5%A6%86%E5%93%81/</guid>
       <description>-End</description>
     </item>
     <item>
       <title>保健品</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E4%BF%9D%E5%81%A5%E5%93%81/</guid>
       <description>模型 渲染 -End</description>
     </item>
     <item>
       <title>洗手液</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%B4%97%E6%89%8B%E6%B6%B2/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%B4%97%E6%89%8B%E6%B6%B2/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%B4%97%E6%89%8B%E6%B6%B2/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E6%B4%97%E6%89%8B%E6%B6%B2/</guid>
       <description>-End</description>
     </item>
     <item>
       <title>野生菌</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E9%87%8E%E7%94%9F%E8%8F%8C/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E9%87%8E%E7%94%9F%E8%8F%8C/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E9%87%8E%E7%94%9F%E8%8F%8C/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E9%87%8E%E7%94%9F%E8%8F%8C/</guid>
       <description>客户意愿 客户给到的只有包装文件，没有产品图，希望通过渲染的方式达到一个比较好得效果。&#xA;产品尺寸 产品颜色 KV 海报 -End</description>
     </item>
     <item>
       <title>医疗器械</title>
-      <link>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0/</link>
+      <link>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay3d.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0/</guid>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93-%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0/</guid>
       <description>足底按摩器 筋膜枪 -End&#xD;</description>
+    </item>
+    <item>
+      <title>包装-石斛礼盒</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E7%A4%BC%E7%9B%92/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E7%A4%BC%E7%9B%92/</guid>
+      <description>-End</description>
+    </item>
+    <item>
+      <title>包装-石斛鸡年卡</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E9%B8%A1%E5%B9%B4%E5%8D%A1/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E9%B8%A1%E5%B9%B4%E5%8D%A1/</guid>
+      <description>-End</description>
+    </item>
+    <item>
+      <title>包装-石斛固体饮料</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E5%9B%BA%E4%BD%93%E9%A5%AE%E6%96%99/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E5%8C%85%E8%A3%85-%E7%9F%B3%E6%96%9B%E5%9B%BA%E4%BD%93%E9%A5%AE%E6%96%99/</guid>
+      <description>-End</description>
+    </item>
+    <item>
+      <title>logo-小鲜萃</title>
+      <link>https://junxinjay.netlify.app/zh/blog/logo-%E5%B0%8F%E9%B2%9C%E8%90%83/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/logo-%E5%B0%8F%E9%B2%9C%E8%90%83/</guid>
+      <description>过程稿 品牌规范 -End</description>
+    </item>
+    <item>
+      <title>logo-庐州</title>
+      <link>https://junxinjay.netlify.app/zh/blog/logo-%E5%BA%90%E5%B7%9E/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/logo-%E5%BA%90%E5%B7%9E/</guid>
+      <description>合肥古城景区 logo 这是一个虚拟项目，练习 works。&#xA;创作思路 效果展示 -End</description>
+    </item>
+    <item>
+      <title>logo-塑身衣</title>
+      <link>https://junxinjay.netlify.app/zh/blog/logo-%E5%A1%91%E8%BA%AB%E8%A1%A3/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/logo-%E5%A1%91%E8%BA%AB%E8%A1%A3/</guid>
+      <description>塑身衣 logo 设计 -End</description>
+    </item>
+    <item>
+      <title>logo-habo</title>
+      <link>https://junxinjay.netlify.app/zh/blog/logo-habo/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/logo-habo/</guid>
+      <description>哈博药业外贸网站 logo logo 构成 “H”-Healthy 健康&#xA;“A”-Aurora 曙光,朝霞&#xA;“B”-Beloved 爱的人&#xA;“O”-Oomph 精力充沛&#xA;“🌄”-朝阳,希望&#xA;logo 释义 HABO 四字母连在一起的意思可以解释为:希望我爱的人健康如意,元气满满,生命犹如朝霞之灿烂。&#xA;HABO 号召语 Care With No Words。中文意思是关爱无声。换句话说 HABO 公司希望用产品质量说话来关爱每一位客户。&#xA;效果展示 -End</description>
+    </item>
+    <item>
+      <title>活动首页</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E9%A6%96%E9%A1%B5-%E6%B4%BB%E5%8A%A8/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E9%A6%96%E9%A1%B5-%E6%B4%BB%E5%8A%A8/</guid>
+      <description>End</description>
+    </item>
+    <item>
+      <title>日常首页</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E9%A6%96%E9%A1%B5-%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E9%A6%96%E9%A1%B5-%E6%97%A5%E5%B8%B8/</guid>
+      <description>End</description>
+    </item>
+    <item>
+      <title>详情页-服饰</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E6%9C%8D%E9%A5%B0/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E6%9C%8D%E9%A5%B0/</guid>
+      <description>-End</description>
+    </item>
+    <item>
+      <title>详情页-3C</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-3c/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-3c/</guid>
+      <description>筋膜枪 智能锁 -End</description>
+    </item>
+    <item>
+      <title>详情页-食品</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E9%A3%9F%E5%93%81/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E8%AF%A6%E6%83%85%E9%A1%B5-%E9%A3%9F%E5%93%81/</guid>
+      <description>钙铁锌硒咀嚼片 这是一款青少年以及儿童食用的钙铁锌硒咀嚼片，整个详情页用了产品包装色-绿色，让详情页整体具有统一感和协调感，在创意上用了符合产品调性的梦想宇航员作为背景去烘托表现产品给人带来一种的童真的，梦想实现的感觉。&#xA;凝胶糖果 牛磺酸片 坚果 End</description>
+    </item>
+    <item>
+      <title>海报-医美</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E5%8C%BB%E7%BE%8E/</guid>
+      <description>平面海报 -End</description>
+    </item>
+    <item>
+      <title>海报-服饰</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E6%9C%8D%E9%A5%B0/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E6%9C%8D%E9%A5%B0/</guid>
+      <description>塑身衣 PC 海报 End</description>
+    </item>
+    <item>
+      <title>海报-食品</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E9%A3%9F%E5%93%81/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E6%B5%B7%E6%8A%A5-%E9%A3%9F%E5%93%81/</guid>
+      <description>详情 KV 海报 -End</description>
+    </item>
+    <item>
+      <title>精修-产品</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E7%B2%BE%E4%BF%AE-%E4%BA%A7%E5%93%81/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E7%B2%BE%E4%BF%AE-%E4%BA%A7%E5%93%81/</guid>
+      <description>-End</description>
+    </item>
+    <item>
+      <title>直通车-食品</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E8%BD%A6%E5%9B%BE-%E9%A3%9F%E5%93%81/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E8%BD%A6%E5%9B%BE-%E9%A3%9F%E5%93%81/</guid>
+      <description>直通车图-食品 -End</description>
+    </item>
+    <item>
+      <title>直通车-服饰类</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E8%BD%A6%E5%9B%BE-%E6%9C%8D%E9%A5%B0/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E8%BD%A6%E5%9B%BE-%E6%9C%8D%E9%A5%B0/</guid>
+      <description>直通车图-服饰 -End</description>
+    </item>
+    <item>
+      <title>直通车-3C</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E8%BD%A6%E5%9B%BE-3c/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E8%BD%A6%E5%9B%BE-3c/</guid>
+      <description>直通车图-3C End</description>
+    </item>
+    <item>
+      <title>钻展-服饰</title>
+      <link>https://junxinjay.netlify.app/zh/blog/%E9%92%BB%E5%B1%95-%E6%9C%8D%E9%A5%B0/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://junxinjay.netlify.app/zh/blog/%E9%92%BB%E5%B1%95-%E6%9C%8D%E9%A5%B0/</guid>
+      <description>钻展-服饰 End</description>
     </item>
   </channel>
 </rss>
