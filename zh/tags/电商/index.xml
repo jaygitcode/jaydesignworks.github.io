@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>电商 on 君心Jay</title>
-    <link>https://junxinjay.netlify.app/zh/tags/%E7%94%B5%E5%95%86/</link>
+    <link>https://junxinjay3d.netlify.app/zh/tags/%E7%94%B5%E5%95%86/</link>
     <description>Recent content in 电商 on 君心Jay</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://junxinjay.netlify.app/zh/tags/%E7%94%B5%E5%95%86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://junxinjay3d.netlify.app/zh/tags/%E7%94%B5%E5%95%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>stable_diffusion在电商行业的应用</title>
-      <link>https://junxinjay.netlify.app/zh/blog/ai-stable_diffusion%E5%9C%A8%E7%94%B5%E5%95%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8/</link>
+      <link>https://junxinjay3d.netlify.app/zh/blog/ai-stable_diffusion%E5%9C%A8%E7%94%B5%E5%95%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/blog/ai-stable_diffusion%E5%9C%A8%E7%94%B5%E5%95%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8/</guid>
+      <guid>https://junxinjay3d.netlify.app/zh/blog/ai-stable_diffusion%E5%9C%A8%E7%94%B5%E5%95%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BA%94%E7%94%A8/</guid>
       <description>素材 流程步骤 成图 总结： AI生成图像虽蕴含一定随机性，导致成品质量参差不齐，难以一次即完美，目前尚无法全面取代传统制图工作流的精细与确定性。然而，AI生成图像的显著优势在于惊人的创作速度，能够为设计初期迅速提供丰富的灵感与创意草案，极大地加速了构思与迭代过程。随着AI技术的日新月异，其赋能各领域的潜力正逐步释放，预示着不久的将来，AI将更加无缝地融入并优化我们的工作流程，成为不可或缺的创意伙伴与效率引擎。</description>
     </item>
   </channel>

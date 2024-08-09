@@ -2,164 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 君心Jay</title>
-    <link>https://junxinjay.netlify.app/zh/tags/</link>
+    <link>https://junxinjay3d.netlify.app/zh/tags/</link>
     <description>Recent content in Tags on 君心Jay</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://junxinjay.netlify.app/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://junxinjay3d.netlify.app/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://junxinjay.netlify.app/zh/tags/ai/</link>
+      <link>https://junxinjay3d.netlify.app/zh/tags/ai/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/ai/</guid>
+      <guid>https://junxinjay3d.netlify.app/zh/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>卡通</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E5%8D%A1%E9%80%9A/</link>
+      <link>https://junxinjay3d.netlify.app/zh/tags/%E5%8D%A1%E9%80%9A/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E5%8D%A1%E9%80%9A/</guid>
+      <guid>https://junxinjay3d.netlify.app/zh/tags/%E5%8D%A1%E9%80%9A/</guid>
       <description></description>
     </item>
     <item>
       <title>美女</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E7%BE%8E%E5%A5%B3/</link>
+      <link>https://junxinjay3d.netlify.app/zh/tags/%E7%BE%8E%E5%A5%B3/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E7%BE%8E%E5%A5%B3/</guid>
+      <guid>https://junxinjay3d.netlify.app/zh/tags/%E7%BE%8E%E5%A5%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>电商</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E7%94%B5%E5%95%86/</link>
+      <link>https://junxinjay3d.netlify.app/zh/tags/%E7%94%B5%E5%95%86/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E7%94%B5%E5%95%86/</guid>
+      <guid>https://junxinjay3d.netlify.app/zh/tags/%E7%94%B5%E5%95%86/</guid>
       <description></description>
     </item>
     <item>
       <title>3D风格</title>
-      <link>https://junxinjay.netlify.app/zh/tags/3d%E9%A3%8E%E6%A0%BC/</link>
+      <link>https://junxinjay3d.netlify.app/zh/tags/3d%E9%A3%8E%E6%A0%BC/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/3d%E9%A3%8E%E6%A0%BC/</guid>
+      <guid>https://junxinjay3d.netlify.app/zh/tags/3d%E9%A3%8E%E6%A0%BC/</guid>
       <description></description>
     </item>
     <item>
       <title>建模</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E5%BB%BA%E6%A8%A1/</link>
+      <link>https://junxinjay3d.netlify.app/zh/tags/%E5%BB%BA%E6%A8%A1/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E5%BB%BA%E6%A8%A1/</guid>
+      <guid>https://junxinjay3d.netlify.app/zh/tags/%E5%BB%BA%E6%A8%A1/</guid>
       <description></description>
     </item>
     <item>
       <title>渲染</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E6%B8%B2%E6%9F%93/</link>
+      <link>https://junxinjay3d.netlify.app/zh/tags/%E6%B8%B2%E6%9F%93/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E6%B8%B2%E6%9F%93/</guid>
+      <guid>https://junxinjay3d.netlify.app/zh/tags/%E6%B8%B2%E6%9F%93/</guid>
       <description></description>
     </item>
     <item>
       <title>写实</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E5%86%99%E5%AE%9E/</link>
+      <link>https://junxinjay3d.netlify.app/zh/tags/%E5%86%99%E5%AE%9E/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E5%86%99%E5%AE%9E/</guid>
+      <guid>https://junxinjay3d.netlify.app/zh/tags/%E5%86%99%E5%AE%9E/</guid>
       <description></description>
     </item>
     <item>
       <title>3D产品</title>
-      <link>https://junxinjay.netlify.app/zh/tags/3d%E4%BA%A7%E5%93%81/</link>
+      <link>https://junxinjay3d.netlify.app/zh/tags/3d%E4%BA%A7%E5%93%81/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/3d%E4%BA%A7%E5%93%81/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>包装</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E5%8C%85%E8%A3%85/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E5%8C%85%E8%A3%85/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>平面设计</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Logo</title>
-      <link>https://junxinjay.netlify.app/zh/tags/logo/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/logo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>电商设计</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E7%94%B5%E5%95%86%E8%AE%BE%E8%AE%A1/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E7%94%B5%E5%95%86%E8%AE%BE%E8%AE%A1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>首页</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E9%A6%96%E9%A1%B5/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E9%A6%96%E9%A1%B5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>详情页</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E8%AF%A6%E6%83%85%E9%A1%B5/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E8%AF%A6%E6%83%85%E9%A1%B5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>海报</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E6%B5%B7%E6%8A%A5/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E6%B5%B7%E6%8A%A5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>医美</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E5%8C%BB%E7%BE%8E/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E5%8C%BB%E7%BE%8E/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>产品</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E4%BA%A7%E5%93%81/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E4%BA%A7%E5%93%81/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>精修</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E7%B2%BE%E4%BF%AE/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E7%B2%BE%E4%BF%AE/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>食品</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E9%A3%9F%E5%93%81/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E9%A3%9F%E5%93%81/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>直通车</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E7%9B%B4%E9%80%9A%E8%BD%A6/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E7%9B%B4%E9%80%9A%E8%BD%A6/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>钻展</title>
-      <link>https://junxinjay.netlify.app/zh/tags/%E9%92%BB%E5%B1%95/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://junxinjay.netlify.app/zh/tags/%E9%92%BB%E5%B1%95/</guid>
+      <guid>https://junxinjay3d.netlify.app/zh/tags/3d%E4%BA%A7%E5%93%81/</guid>
       <description></description>
     </item>
   </channel>
